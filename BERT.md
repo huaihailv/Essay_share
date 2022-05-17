@@ -16,7 +16,7 @@ The fine-tuning approach, such as the Generative Pre-trained Transformer (OpenAI
 
 
 
-![image-20220517114519938](assest\image-20220517114519938.png)
+![image-20220517114519938](https://github.com/huaihailv/Essay_share/blob/main/assest/image-20220517114519938.png)
 
 
 
@@ -28,7 +28,7 @@ To make BERT handle a variety of down-stream tasks, our input representation is 
 
 method : WordPiece embeddings  
 
-![image-20220517115229903](assest\image-20220517115229903.png)
+![image-20220517115229903](https://github.com/huaihailv/Essay_share/blob/main/assest/image-20220517115229903.png)
 
 Task #1: Masked LM  
 
