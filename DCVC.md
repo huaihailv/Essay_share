@@ -4,10 +4,10 @@
 
 ---
 
-![image-20220716165209476](https://github.com/huaihailv/Essay_share/blob/main/DCVC.assets\image-20220716165209476.png)
+![image-20220716165209476](https://github.com/huaihailv/Essay_share/blob/main/DCVC.assets/image-20220716165209476.png)
 
 Comparison on the previous method of video compression.
 
-![image-20220716165528067](C:\Users\12630\Desktop\essay_reading\DCVC.assets\image-20220716165528067.png)
+![image-20220716165528067](https://github.com/huaihailv/Essay_share/blob/main/DCVC.assets/image-20220716165528067.png)
 
 Framework designed by present essay.
